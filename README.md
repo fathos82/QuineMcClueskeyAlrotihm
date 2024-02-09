@@ -1,12 +1,13 @@
-# Gera-o-Simplica-o-Expressoes-Booleanas
-## Quando me foi apresentado iuma materia no primeiro periodo que demonstra o comportamento logico dos computadores e circuito eu fiquei muito hiperfocado
-## Eu não gostava do fato de eu ter que fazer tabelas verdades manualmente, extrair expressão, testar expressão na tabela, tudo isso da muito trabalho, o que não ajuda com TDAH
-## Então me desafiei criar um codigo que gera a tabela verdade para n variaveis, extrai a expressão de acordo com as entradas do usario, isso foi uma delicinha de se fazer, me refiro ao "tabela-verdade.py"
+# Simplified Generation of Boolean Expressions
 
-# Sobre o Metodo Quine McCluskey:
-## Depois foram apresentado a simplificações das expressões, mas eu não gostava do metodo de Karnaugh, alem de ser manual, relativamente complicado, e não servia para N variaveis
-## conversei com o professor para que me mostrasse um metodo computavel, ele me apresentou Metodo Quine McCluskey.
-## então propuz o desafio: Se eu conseguisse aplicar o metodo a nivel de programação não precisaria fazer a ultima prova... Esta ai o codigo "Simplificador_Metodo_Quine.py"
+## Introduction
+When I was introduced to a subject in my first semester that demonstrated the logical behavior of computers and circuits, I became very focused on it.
 
-# Eu gostei muito de fazer essas duas implentações, e apesar de não terem sido feitos com boas praticas(1º periodo), estava bem acima do meu nivel, pretendo refatora-los.
- 
+## Automated Truth Table
+I didn't like the manual task of creating truth tables, extracting expressions, and testing them. All of this process was too much work, which didn't help with ADHD. So, I challenged myself to create a code that generates the truth table for any number of variables. This was the beginning of the "truth-table.py" project.
+
+## Quine McCluskey Method
+After learning about expression simplifications, I didn't like the Karnaugh method. Besides being manual and relatively complicated, it wasn't suitable for a variable number of variables. I talked to the professor to show me a computable method, and he introduced me to the Quine McCluskey Method. So, I proposed myself the challenge: if I could apply the method programmatically, I wouldn't need to take the final exam. And there it is, the "Simplifier_Quine_Method.py" code.
+
+## Conclusion
+I really enjoyed developing these two implementations, and although they weren't done with best practices (it was just my first semester), they were well above my level. I plan to refactor them in the future.
